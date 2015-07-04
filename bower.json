@@ -1,0 +1,27 @@
+{
+  "name": "paper-dropdown",
+  "version": "1.0.0",
+  "authors": [
+    "Marcus Carey <mcarey1590@gmail.com>"
+  ],
+  "description": "A material design dropdown",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "dropdown"
+  ],
+  "main": "paper-dropdown.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/mcarey1590/paper-dropdown/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
